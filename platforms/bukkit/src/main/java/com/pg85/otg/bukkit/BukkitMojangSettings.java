@@ -5,7 +5,7 @@ import com.pg85.otg.bukkit.util.MobSpawnGroupHelper;
 import com.pg85.otg.configuration.WeightedMobSpawnGroup;
 import com.pg85.otg.configuration.standard.MojangSettings;
 
-import net.minecraft.server.v1_12_R1.BiomeBase;
+import net.minecraft.server.v1_13_R1.BiomeBase;
 
 import java.util.List;
 

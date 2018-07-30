@@ -3,7 +3,7 @@ package com.pg85.otg.bukkit.util;
 import com.pg85.otg.OTG;
 import com.pg85.otg.logging.LogMarker;
 import com.pg85.otg.util.NamedBinaryTag;
-import net.minecraft.server.v1_12_R1.*;
+import net.minecraft.server.v1_13_R1.*;
 
 import java.lang.reflect.Field;
 import java.util.Map;

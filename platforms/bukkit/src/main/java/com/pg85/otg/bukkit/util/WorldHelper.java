@@ -3,7 +3,7 @@ package com.pg85.otg.bukkit.util;
 import com.pg85.otg.LocalWorld;
 import com.pg85.otg.OTG;
 import com.pg85.otg.bukkit.OTGBiomeBase;
-import net.minecraft.server.v1_12_R1.BiomeBase;
+import net.minecraft.server.v1_13_R1.BiomeBase;
 
 public abstract class WorldHelper
 {
@@ -14,7 +14,7 @@ public abstract class WorldHelper
      * @param world The world.
      * @return The LocalWorld, or null if there is none.
      */
-    public static LocalWorld toLocalWorld(net.minecraft.server.v1_12_R1.World world)
+    public static LocalWorld toLocalWorld(net.minecraft.server.v1_13_R1.World world)
     {
         return OTG.getWorld(world.getWorld().getName());
     }

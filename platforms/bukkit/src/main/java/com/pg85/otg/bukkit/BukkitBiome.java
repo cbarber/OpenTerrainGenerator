@@ -4,8 +4,8 @@ import com.pg85.otg.BiomeIds;
 import com.pg85.otg.LocalBiome;
 import com.pg85.otg.bukkit.util.WorldHelper;
 import com.pg85.otg.configuration.BiomeConfig;
-import net.minecraft.server.v1_12_R1.BiomeBase;
-import net.minecraft.server.v1_12_R1.BlockPosition;
+import net.minecraft.server.v1_13_R1.BiomeBase;
+import net.minecraft.server.v1_13_R1.BlockPosition;
 
 /**
  * The BukkitBiome is basically a wrapper for the BiomeBase. If you look at
